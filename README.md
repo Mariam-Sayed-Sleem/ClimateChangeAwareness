@@ -16,4 +16,25 @@ Features the website will have:
 - favicon
 - images
 - cards
+- links
+- heads
+- Videos
 and more!
+
+Languages used in the website:
+
+- HTML
+- CSS
+- JavaScript
+
+The Structure of the interior of this file will be as following
+
+> index.html
+> definition.html
+> causes.html
+> effects.html
+> solution.html
+> style.css
+> script.js
+>> Images/
+>> Fonts/
